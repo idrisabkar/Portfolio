@@ -1,9 +1,7 @@
 body{
     background-color: #F5F4F2;
 }
-.navbar-nav.me-auto {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color : red;
+
+.navbar-border {
+    border-bottom: 1px solid black;
 }
