@@ -2,6 +2,21 @@ body{
     background-color: #F5F4F2;
 }
 
-.navbar-border {
+.navbar {
     border-bottom: 1px solid black;
 }
+
+  .custom-navbar {
+    height: 70px;
+  }
+  .navbar-brand{
+      margin-left: 5%;
+  }
+  li{
+    font-family: 'Quicksand', sans-serif;
+    width: 130px;
+    font-weight: bolder;
+  }
+.btn-outline-secondary{
+    margin-left: 30%;
+  }
